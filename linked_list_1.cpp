@@ -51,8 +51,5 @@ int main()
     return 0;
 }
 
-/**
- * @brief head is present. head points to the first element. head first pointer.
- * 
- */
+
  
